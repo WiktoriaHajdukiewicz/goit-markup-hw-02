@@ -1,0 +1,157 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d5ae5;
+}
+.logo-dark {
+    color: #2e2f42;
+}
+
+.logo {
+    color: #4d5ae5;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+
+.navigation-links .link {
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+
+.navigation-links .link:hover {
+    color: #404bbf;
+}
+
+.navigation-links .link:active {
+    color: #404bbf;
+}
+
+
+.address-links {
+    font-style: normal;
+}
+
+.a-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+.link:hover,
+.a-link:hover {
+    color: #404bbf;
+}
+.link:focus,
+.a-link:focus {
+    color: #404bbf;
+}
+.link:active,
+.a-link:active {
+    color: #404bbf;
+}
+
+.heros-img {
+    background-color: #2e2f42;
+}
+
+
+.heros-header-text {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.main-button {
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+
+    color: #fff;
+    cursor: pointer;
+}
+
+.main-button:hover,
+.main-button:active,
+.main-button:focus {
+    background-color: #404bbf;
+}
+
+
+.main-header-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.header-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team-card-background {
+    background-color: #ffffff;
+}
+.p-section-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+.team-background {
+    background-color: #f4f4fd;
+}
+
+.team-card-background {
+    background-color: #ffffff;
+}
+
+
+.footer-background {
+    background-color: #2e2f42;
+}
+
+.logo-white {
+    color: #f4f4fd;
+}
+
+.footer-bright-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+    background-color: #2e2f42;
+}
