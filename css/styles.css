@@ -144,6 +144,9 @@ ul {
 
 .footer-background {
 background-color: #2e2f42;
+}
+
+.footer-logo {
 font-family: "Raleway";
 font-weight: 700;
 font-size: 18px;
@@ -152,7 +155,6 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-
 
 .logo-white {
 color: #f4f4fd;
